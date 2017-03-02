@@ -1,0 +1,14 @@
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\bin\Debug\Widget Counter.exe.config
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\bin\Debug\Widget Counter.exe
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\bin\Debug\Widget Counter.pdb
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\bin\Debug\Widget Counter.xml
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget_Counter.Form1.resources
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget_Counter.Resources.resources
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.vbproj.GenerateResource.Cache
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.exe
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.xml
+c:\users\owner\documents\visual studio 2012\Projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.pdb
+D:\projects\Widget Counter\Widget Counter\bin\Debug\Widget Counter.exe.config
+D:\projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.exe
+D:\projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.xml
+D:\projects\Widget Counter\Widget Counter\obj\Debug\Widget Counter.pdb
